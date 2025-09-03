@@ -1,4 +1,5 @@
 # SarviCa — Public Demo (Synthetic/Open Data)
+Live demo: https://sarvica-app-demo.streamlit.app/
 
 Minimal Streamlit demo that mimics SarviCa UI with NO proprietary code, models, or data.
 It uses a demo service that generates small synthetic arrays so the app runs end‑to‑end safely.
