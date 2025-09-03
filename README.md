@@ -3,7 +3,7 @@
 Minimal Streamlit demo that mimics SarviCa UI with NO proprietary code, models, or data.
 It uses a demo service that generates small synthetic arrays so the app runs end‑to‑end safely.
 
-![Demo](results/demo_1.png) 
+![Demo](results/demo_1.png)
 ![Demo](results/demo_2.png) 
 ![Demo](results/demo_3.png)
 ![Demo](results/crop_3d_timelapse.gif)
